@@ -10,4 +10,4 @@
   </tr>
 </table>
 
-<sup>$\color{#f5e1b8}{\textsf{pls c+h i love sitting with ppl}}$</sup>
+$\color{#f5e1b8}{\textsf{pls c+h i love sitting with ppl}}$
