@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**anthonypotero/anthonypotero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <br>
+  <tr>
+    <td>
+      <img alt="image" src="https://i.postimg.cc/9fG76Pm0/ezgif-23b14e2008dddcee.gif" />
+      <br>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sup>$\color{#f5e1b8}{\textsf{pls c+h i love sitting with ppl}}$</sup>
