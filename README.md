@@ -12,4 +12,4 @@
 
 $\color{#f5e1b8}{\textsf{︵‿   main @bunchoffriends / @whokilledmarkiplier}}$
 <br>
-$\color{#f5e1b8}{\textsf{c*h encouraged ... pls bmf ෆ}}$
+$\color{#f5e1b8}{\textsf{c*h encouraged ... pls bmf ok}}$
