@@ -10,4 +10,6 @@
   </tr>
 </table>
 
-$\color{#f5e1b8}{\textsf{pls c+h... i love sitting with ppl.. bmf smiles}}$
+$\color{#f5e1b8}{\textsf{︵‿   main @bunchoffriends / @whokilledmarkiplier}}$
+
+$\color{#f5e1b8}{\textsf{c*h encouraged ... pls bmf ෆ}}$
