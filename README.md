@@ -1,5 +1,9 @@
 <div align="center">
 
+the ants: 🐜🐜🐜
+<br>
+<sub> pls c+h pls pls speed i need this </sub>
+
 <table>
   <br>
   <tr>
@@ -10,6 +14,6 @@
   </tr>
 </table>
 
-$\color{#f5e1b8}{\textsf{c*h encouraged ... pls bmf ok}}$
-<br>
-$\color{#f5e1b8}{\textsf{︵‿   main @bunchoffriends / @whokilledmarkiplier}}$
+![](https://i.postimg.cc/K8N3TMDB/image.gif)
+
+[@coypisopilled](https://github.com/coypisopilled) i'm gonna hang you from a tree and hit you with a bat like a pinata
